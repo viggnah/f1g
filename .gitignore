@@ -11,3 +11,5 @@ venv.bak/
 instance/
 .webassets-cache
 
+# Apple stuff
+.DS_Store
